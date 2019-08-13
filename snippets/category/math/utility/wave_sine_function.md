@@ -24,6 +24,20 @@ f_wave_sine(_wave_height, _wave_duration)=>
 </details>
 
 
+<details close>
+  <!-- leave a blank line after summary -->
+  <summary>@version=2</summary>
+
+```javascript
+f_sine_wave(_wave_height, _wave_duration)=>
+    _pi = 3.14159265359
+    _w = 2 * _pi / _wave_duration
+    _sine_wave = _wave_height * sin(_w * n)
+```
+
+</details>
+
+
 <!-- Add example bellow: --------------------------------------------------------------->
 #### Example:
 
