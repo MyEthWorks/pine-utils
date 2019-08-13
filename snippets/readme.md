@@ -12,6 +12,8 @@ Welcome to the list of categorized Pine Script snippets available in the PineCod
 ## Snippets by category
 <!--  -->
 
+
+
 <!-- ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• -->
 <!-- Data Structure Category: -->
 <details open>
@@ -32,6 +34,8 @@ Welcome to the list of categorized Pine Script snippets available in the PineCod
 &emsp;&emsp;• [Pseudo Array - Technique](/./snippets/category/data_structure/pseudo_array_technique.md "Pseudo Array - Technique.")<br/>
 </details>
 
+
+
 <!-- ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• -->
 <!-- Math Category: -->
 <details open>
@@ -49,8 +53,22 @@ Welcome to the list of categorized Pine Script snippets available in the PineCod
 &emsp;&emsp;&emsp;&emsp; • [Value with bias towards a level - Function](/./snippets/category/math/random/prng_weighed_bias_function.md "generate a value with bias towards a level.")<br/>
 &emsp;&emsp;&emsp;&emsp; • [Value with bias towards a range - Function](/./snippets/category/math/random/prng_weighed_2bias_function.md "generate a value with bias towards a range within a range.")<br/>
 </details>
+
+<details open>
+  <!-- leave a blank line after summary -->
+  <summary><b>&emsp;• Utility:</b></summary>
+  
+  <!--#### &emsp; -->
+######  &emsp;&emsp;&emsp; Utility related snippets:  
+&emsp;&emsp;&emsp;&emsp; • [Wave Reflection - Function](/./snippets/category/math/utility/wave_reflection_function.md "generate reflection wave.")<br/>
+&emsp;&emsp;&emsp;&emsp; • [Wave Round Sawtooth - Function](/./snippets/category/math/utility/wave_roundsawtooth_function.md "generate round sawtooth wave.")<br/>
+&emsp;&emsp;&emsp;&emsp; • [Wave Sine - Function](/./snippets/category/math/utility/wave_sine_function.md "generate sine wave.")<br/>
+&emsp;&emsp;&emsp;&emsp; • [Wave Square - Function](/./snippets/category/math/utility/wave_square_function.md "generate square wave.")<br/>
+</details>
+
 <!-- Math Snippets go here: -->
 </details>
+
 
 
 <!-- ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• -->
